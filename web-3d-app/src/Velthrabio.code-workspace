@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../Test/Velthrabio"
+		},
+		{
+			"path": "../../.vscode"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
