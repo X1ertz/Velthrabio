@@ -1,5 +1,5 @@
 import React, { useEffect, useState,useRef } from 'react';
-import { Menu, X, Mouse } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 import featureBg from './Image/R.jpeg';
 import FeaturesLeft from './FeatureLeft';
 import ContactFooter from './footer';
